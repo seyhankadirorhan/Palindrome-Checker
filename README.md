@@ -16,6 +16,3 @@ Sadece harf ve rakamları dikkate alır; büyük-küçük harf duyarlılığı v
 - HTML
 - CSS
 - JavaScript (Vanilla)
-
-## 📂 Dosya Yapısı
-
